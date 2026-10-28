@@ -1,0 +1,40 @@
+NAAM
+Nederland | +31 06 0000 0000 | name@email.com | LinkedIn.com/in/name
+
+SAMENVATTING
+Enthousiaste Junior Engineer met een achtergrond in Elektrotechniek. Ervaren in PLC-programmering en HMI-ontwikkeling met behulp van webtechnologieën. Praktische ervaring in industriële automatisering door academische projecten en een stage van 6 maanden. Gedreven om bij te dragen aan multidisciplinaire teams en slimme machine-oplossingen te ontwikkelen.
+
+TECHNISCHE VAARDIGHEDEN
+
+Automatisering: PLC-programmering (Structured Text), HMI-ontwerp
+
+Webontwikkeling: HTML5, CSS3, JavaScript (Basis)
+
+Algemene software: Java, Git, MATLAB
+
+Talen: Engels (Vloeiend), Nederlands (Conversatie)
+
+OPLEIDING
+B.Sc. in Elektrotechniek | [Naam Universiteit], Nederland
+
+Relevante vakken: Regeltechniek, Industriële Automatisering, Digitale Elektronica.
+
+WERKERVARING
+Stagiair Software Engineering | AutoSystems B.V.
+
+Geassisteerd bij het onderhoud en het updaten van PLC-programma's voor machines aan de assemblagelijn.
+
+Een eenvoudig HMI-dashboard ontwikkeld met behulp van HTML en JavaScript om de real-time machinestatus weer te geven.
+
+Testen en debuggen uitgevoerd van sensorintegratie voor een sorteersysteem.
+
+Samengewerkt met senior engineers om softwarevereisten voor nieuwe prototypen te documenteren.
+
+PROJECTEN
+Geautomatiseerd flessensorteersysteem (Academisch)
+
+Een op PLC gebaseerd besturingssysteem ontworpen om items te sorteren op basis van hoogtesensoren.
+
+Een HMI-scherm geïmplementeerd voor handmatige overbrugging (manual override) en noodstopbewaking.
+
+Pneumatische actuatoren succesvol geïntegreerd met de softwarebesturingslogica.

@@ -1,0 +1,40 @@
+NAME
+Amsterdam, Netherlands | +31 06 0000 0000 | name@email.com | LinkedIn.com/in/name
+
+SUMMARY
+Recent Computer Science graduate with a strong interest in software engineering and marine technology. Proficient in Python and C# with a solid understanding of Object-Oriented Programming (OOP) and Windows desktop application development. Eager to apply academic knowledge to real-world firmware and software systems in a collaborative engineering environment.
+
+SKILLS
+
+Programming: Python, C#, .NET
+
+Software Tools: Git, Visual Studio, Windows Environment
+
+Core Concepts: OOP, Software Development Life Cycle (SDLC), Basic Electronics
+
+Languages: English (Professional)
+
+EDUCATION
+Bachelor of Science in Computer Science | [University Name], Netherlands
+
+Relevant Coursework: Algorithms & Data Structures, Operating Systems, Introduction to Embedded Systems, Software Engineering Principles.
+
+PROFESSIONAL EXPERIENCE
+Software Development Intern | TechSolutions B.V.
+
+Collaborated with a team of 5 to develop and maintain desktop applications using C#.
+
+Assisted in writing technical documentation for internal software tools.
+
+Performed basic debugging and testing of software features before deployment.
+
+Utilized Git for version control and participated in daily stand-up meetings.
+
+PROJECTS
+Desktop Weather Monitoring Tool
+
+Developed a Windows-based application using Python to fetch and display real-time weather data.
+
+Implemented a clean User Interface (UI) and managed data parsing from external APIs.
+
+Conducted basic testing to ensure application stability across different Windows versions.

@@ -1,0 +1,41 @@
+NAAM
+Groningen, Nederland | +31 06 0000 0000 | name@email.com | LinkedIn.com/in/name
+
+SAMENVATTING
+Resultaatgerichte Java Developer met 3,5 jaar ervaring in het bouwen van schaalbare backend-oplossingen. Bedreven in het Spring-ecosysteem en moderne DevOps-praktijken. Ervaren in het samenwerken binnen multidisciplinaire teams voor grote Nederlandse organisaties. Vloeiend in Nederlands (C1) en Engels.
+
+TECHNISCHE VAARDIGHEDEN
+
+Java Stack: Java 11/17, Spring Boot, OAuth2 (basisimplementatie), Hibernate, Maven
+
+Cloud & DevOps: AWS (Basis), Azure (basiskennis), Docker, Jenkins, Git
+
+Database: PostgreSQL, MongoDB
+
+Methodiek: Agile/Scrum, Unit Testing (JUnit)
+
+Talen: Nederlands (C1/Moedertaal), Engels (Vloeiend)
+
+WERKERVARING
+
+Java Software Developer | Enterprise Solutions NL
+
+Ontwikkelde en onderhield microservices op enterpriseniveau met behulp van Spring Boot met basis OAuth2-beveiligingsmechanismen voor klanten in de publieke sector.
+
+Werkte samen in een Agile-omgeving om wekelijks nieuwe features op te leveren, met een code coverage van 95%+ door middel van unit testing.
+
+Verbeterde de efficiëntie van CI/CD-implementaties en de systeembetrouwbaarheid.
+
+Nam deel aan lokale Java meet-ups en droeg technische notities bij aan interne kennissessies.
+
+Junior Java Developer | TechFlow B.V.
+
+Ondersteunde bij de ontwikkeling van RESTful API's voor webapplicaties met veel dataverkeer.
+
+Optimaliseerde SQL-queries, wat leidde tot een vermindering van 10% in database-responstijd voor kernmodules.
+
+Migreerde legacy on-premise diensten naar AWS-cloudomgevingen met vroege stadia van hybride integratiepatronen.
+
+OPLEIDING
+B.Sc. in Information Technology (HBO) | [Naam Universiteit/Hogeschool], Nederland
+Certificeringen: Oracle Certified Professional (OCP) – Java SE (in uitvoering of behaald)

@@ -1,0 +1,45 @@
+NAAM
+Utrecht, Nederland | +31 06 0000 0000 | name@email.com | LinkedIn.com/in/name
+
+SAMENVATTING
+Toegewijde IT-professional met 5 jaar ervaring als Systeembeheerder. Bewezen staat van dienst in het beheren van Windows Server-omgevingen, netwerkinfrastructuur en werkplekondersteuning. Vaardig in troubleshooting, systeemmonitoring en het implementeren van beveiligingsupdates om een hoge stabiliteit van de IT-omgeving te waarborgen.
+
+TECHNISCHE VAARDIGHEDEN
+
+Besturingssystemen: Windows Server 2016/2019/2022, Windows 10/11
+
+Netwerken: TCP/IP, VLANs, DNS/DHCP, Firewalls (Fortinet)
+
+Virtualisatie: VMware ESXi, Hyper-V
+
+Tools: Microsoft 365 Admin Center, Active Directory, TopDesk
+
+Talen: Nederlands (Moedertaal), Engels (Professioneel)
+
+WERKERVARING
+
+Systeembeheerder | TechLogistics B.V.
+
+Beheerde en monitorde een serverpark van 15+ Windows Servers, met een uptime van 99,5% als resultaat.
+
+Verantwoordelijk voor het oplossen van 2e en 3e-lijns technische incidenten en knelpunten met betrekking tot netwerkconnectiviteit en softwareprestaties.
+
+Voerde maandelijkse beveiligingspatches en systeemupdates uit voor 150+ werkstations.
+
+Onderhield gedetailleerde technische documentatie voor IT-procedures en systeemconfiguraties.
+
+Werkte samen met externe hardwareleveranciers voor de inkoop en het onderhoud van apparatuur.
+
+Junior Systeembeheerder | Regional Retail Group
+
+Ondersteunde de dagelijkse IT-infrastructuurwerkzaamheden voor meerdere lokale vestigingen.
+
+Configureerde en installeerde nieuwe hardware, waaronder laptops, printers en VoIP-telefoons.
+
+Assisteerde bij de migratie van lokale bestandsopslag (on-premise) naar SharePoint/OneDrive.
+
+OPLEIDING & CERTIFICERINGEN
+
+B.Sc. in Information Technology (HBO) | [Naam Universiteit], Nederland
+
+Certificering: MCSA: Windows Server 2016 (Legacy)

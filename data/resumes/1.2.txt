@@ -1,0 +1,44 @@
+
+NAME
+Netherlands | +31 06 0000 0000 | name@email.com | LinkedIn.com/in/name
+
+SUMMARY
+Motivated Master’s graduate in Computer Science with a strong foundation in back-end development and data systems. Proficient in Python, Java, and SQL with experience in building RESTful APIs and working within cloud environments. Seeking to leverage technical skills in a professional Talent Program to solve complex software challenges.
+
+SKILLS
+
+Languages: Python, Java, SQL, C#
+
+Back-End: REST APIs, Microservices, Spring Boot
+
+Cloud & Tools: AWS (Basic), Git, Linux, Docker, Jenkins
+
+Databases: PostgreSQL, MySQL
+
+Additional: FRM Part I Candidate
+
+EDUCATION
+Master of Science in Computer Science | [University Name], Netherlands
+
+Relevant Coursework: Distributed Systems, Database Management, Network Security.
+
+PROFESSIONAL EXPERIENCE
+Junior Software Developer (Internship) | National Banking Group.
+
+Assisted in the development of data-oriented back-end services using Java and Spring Boot.
+
+Participated in backlog refinement meetings with business analysts to understand requirements.
+
+Contributed to maintaining existing system implementations and bug fixing.
+
+Gained exposure to GitLab CI/CD pipelines and automated testing frameworks.
+
+PROJECTS
+RESTful API Integration Project
+
+Designed and implemented a set of REST APIs for a mock e-commerce platform.
+
+Used Python and Flask to handle data transactions and user authentication.
+
+Deployed the application on an AWS EC2 instance for testing.
+

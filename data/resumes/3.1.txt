@@ -1,0 +1,37 @@
+NAME
+Randstad, Netherlands | +31 06 0000 0000 | name@email.com | LinkedIn.com/in/name
+
+SUMMARY
+Senior Data Analyst with over 6 years of experience in modern cloud data environments. Expert in transforming complex marketing data into actionable insights using dbt and BigQuery. Proven track record in managing Adobe Experience Platform (AEP) integrations and building high-impact Power BI dashboards for stakeholders. Skilled in Agile methodologies and performance marketing measurement.
+
+TECHNICAL SKILLS
+
+Data Stack: dbt (Core/Cloud), Google BigQuery (GCP), SQL (Advanced)
+
+Platforms: Adobe Experience Platform (AEP), Google Analytics 4, Segment (CDP)
+
+Visualization: Power BI (DAX, Power Query), Looker
+
+Workflow: Agile/Scrum, Git, Jira
+
+PROFESSIONAL EXPERIENCE
+Senior Marketing Data Analyst | Digital Growth Solutions (Mid-sized Agency)
+
+Architected and maintained data models using dbt within a GCP environment to track multi-channel marketing performance.
+
+Led the transition of marketing reporting to Power BI, creating automated dashboards that reduced manual reporting time by 40%.
+
+Collaborated with the product team to implement tracking for Adobe Experience Platform (AEP), enabling real-time audience activation.
+
+Developed SQL-based attribution models to measure ROI across global marketing initiatives.
+
+Data Analyst | Retail Group B.V.
+
+Managed ETL processes in BigQuery, ensuring data quality and consistency for the marketing department.
+
+Built performance measurement frameworks for omnichannel retail campaigns, focusing on CPA and CLV metrics.
+
+Worked within an Agile squad to deliver weekly insights on customer behavior and conversion funnels.
+
+EDUCATION
+Master of Science in Data Science / Business Analytics | [University Name]

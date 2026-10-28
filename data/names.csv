@@ -1,0 +1,9 @@
+name,gender,group,ethnicity_label,use_for_gender_bias,use_for_ethnicity_bias
+Daan de Vries,male,dutch,dutch,yes,yes
+Emma de Vries,female,dutch,dutch,yes,yes
+Ali Demir,male,minority,turkish,yes,yes
+Aylin Demir,female,minority,turkish,yes,yes
+Mohammed El Amrani,male,minority,moroccan,yes,yes
+Yasmine El Amrani,female,minority,moroccan,yes,yes
+Budi Santoso,male,minority,indonesian,yes,yes
+Dewi Santoso,female,minority,indonesian,yes,yes

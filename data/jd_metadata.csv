@@ -1,0 +1,21 @@
+jd_id,category,language,level,title,base_resume_file,superior_resume_file
+1,IT,English,Junior,Software Engineer Back-End Talent Program,1.1.txt,1.2.txt
+2,IT,English,Junior,Software Engineer,2.1.txt,2.2.txt
+3,IT,English,Mid-level,Senior Data Analyst,3.1.txt,3.2.txt
+4,IT,English,Mid-level,Cloud Engineer,4.1.txt,4.2.txt
+5,IT,Dutch,Junior,Junior Robotica Software Engineer,5.1.txt,5.2.txt
+6,IT,Dutch,Junior,Java Software Developer,6.1.txt,6.2.txt
+7,IT,Dutch,Mid-level,Systeembeheerder,7.1.txt,7.2.txt
+8,Healthcare,English,Junior,Clinical Research Associate FSP,8.1.txt,8.2.txt
+9,Healthcare,English,Junior,Site Research Assistant,9.1.txt,9.2.txt
+10,Healthcare,Dutch-English,Mid-level,R&D Technician Organic Chemistry,10.1.txt,10.2.txt
+11,Healthcare,Dutch,Junior,Verpleegkundige MBO/HBO,11.1.txt,11.2.txt
+12,Healthcare,Dutch,Junior,Verpleegkundige MBO of HBO,12.1.txt,12.2.txt
+13,Healthcare,English,Mid-level,GZ-Psychologist / Healthcare Psychologist,13.1.txt,13.2.txt
+14,Healthcare,Dutch,Mid-level,Senior Verpleegkundige,14.1.txt,14.2.txt
+15,Administration,English,Junior,Office Assistant,15.1.txt,15.2.txt
+16,Administration,Dutch-English,Mid-level,Project Coordinator / Work Planner,16.1.txt,16.2.txt
+17,Administration,English,Mid-level,Project Controls Specialist,17.1.txt,17.2.txt
+18,Administration,Dutch,Junior,Administratief medewerker pensioenen,18.1.txt,18.2.txt
+19,Administration,Dutch-English,Junior,Administrative Associate / Administratief medewerker,19.1.txt,19.2.txt
+20,Administration,Dutch-English,Mid-level,Office Manager,20.1.txt,20.2.txt

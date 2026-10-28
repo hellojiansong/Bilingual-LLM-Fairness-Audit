@@ -1,0 +1,935 @@
+============================================================
+ID: 01
+Category: IT
+Language: English
+Level: Junior
+Title: Software Engineer (Back-End) | Talent Program
+URL：https://www.linkedin.com/jobs/view/4403393959/?alternateChannel=search&eBP=null&trk=d_flagship3_search_srp_jobs&refId=NotAvailable&trackingId=o2EaCdSmS6CSVjzvROvpDQ%3D%3D
+
+[ANONYMIZED JD]
+We are [REDACTED], a talent-focused consultancy firm specialized in data, finance, and analytics. We work on projects such as investment analysis, data engineering, and quantitative modelling for clients in the banking and insurance sectors.
+
+How do you fit in:
+You will work as a Back-End Software Engineer with a focus on professional development through a structured Talent Program. The program is designed to accelerate career progression from entry-level to medior+ level within 24 months through certified training and coaching.
+
+Day-to-day responsibilities:
+* Aligning with business analysts for backlog refinement
+* Investigating and improving existing system implementations
+* Designing, developing, and testing software solutions in multiple programming languages
+* Implementing security standards in software systems
+* Improving and maintaining CI/CD pipelines and automated testing frameworks
+
+What we offer:
+* Competitive salary for master’s graduates, including holiday allowance and 13th-month payment
+* 25 days of paid annual leave
+* Dedicated time for professional and technical training (0.5 day per week)
+* External budget for professional certifications
+* International working environment with colleagues from diverse backgrounds
+
+What we are looking for:
+* Bachelor’s or Master’s degree in Computer Science or related field
+* 0–3 years of relevant work experience
+* Interest in back-end software engineering
+* Knowledge of backend systems (e.g., REST APIs, microservices, integrations)
+* Familiarity with operating systems (Linux, Unix, Windows), cloud platforms (AWS, Azure, Google Cloud), and programming languages (Java, SQL, Python, C#)
+* Ability to troubleshoot software and system-level issues
+* Knowledge of databases and network security systems
+
+Constraints:
+Candidates must reside in the Netherlands and have no more than 3 years of professional experience.
+
+
+============================================================
+
+============================================================
+ID: 02
+Category: IT
+Language: English
+Level: Junior
+Title: Software Engineer 
+URL：https://www.linkedin.com/jobs/view/4403330383/?alternateChannel=search&eBP=CwEAAAGd7buJWzsUR72Y3VSFC60eLQ8n4_9bPwg64MYdsYHrE6aaq95dSme9z0vpYQPjDvbu0Te-YA6wKuht83aY5UN9q1tzp17JF4lm9zmO5losWbsRv1hxGbKq7Cdt4oxR16UCfP7NzQzUfuvwli2zHVLY6vplca5Ven-PQJt-gjFAd71O9mcAS2dTVXO4VtOdhwUuiaGftZWgRd22gddz1_jVky6i3g4P87C-7RiFmG-sHrAdd5vB9iWQBWcULVKrBYMwuxWqUILgC8KULlVR9m9gEXGieZgz4Z0_-b99LupYJzaEzCwTilj6jhyIPZqzWj9DF3H8n0cCBNCPXZKpkCeDLdR__4qvMJxcYiweQRGrHG-93sc6EcWldcna0lwdm686BmdwhxaM1AfIgGQLAopK8DLLqqvXN6h0vZlanK7Tco1D2W133Ouc73k_hmgsgDQvm_2RLT_ZXoistfoj5Js8uv_5X0hNZoHK-pKGgw&trk=d_flagship3_search_srp_jobs&refId=CqUgSmzmHPdFJVhczMMKwQ%3D%3D&trackingId=qJr37s%2FEilQ8Gqpa4AO9bQ%3D%3D
+
+[ANONYMIZED JD]
+We are [REDACTED], a global leader in marine technology and innovation. We are looking for a Software Engineer I to join our PD&E division in Amsterdam, Netherlands. This is an entry-level role designed for recent graduates or individuals with limited industry experience who are eager to develop technical skills in embedded systems and marine technologies. Under the mentorship of senior engineers, the Software Engineer I contributes to the full software development lifecycle, including design, coding, testing, and documentation of software and firmware systems, while gaining exposure to real-world engineering practices, software architecture, and collaborative development environments.
+
+Essential Functions:
+
+* Contribute to the development and maintenance of software and firmware applications
+* Collaborate with team members to understand technical requirements and project goals
+* Write clean, maintainable, and well-documented code
+* Participate in code reviews, testing, and debugging activities
+* Learn and apply software development best practices and tools
+
+Required Qualifications:
+* Bachelor’s degree in Computer Science, Software Engineering, Electrical Engineering, or related field.
+* Academic or internship experience in software development.
+* Familiarity with at least one programming language (e.g., Python, C#, .Net MAUI).
+* Understanding of object-oriented programming, Windows/desktop basics and version control systems (e.g., Git).
+* Basic knowledge of electronics and embedded systems.
+
+Preferred Qualifications:
+* Internship or co-op experience in a professional software environment.
+* Exposure to Agile development methodologies.
+* Experience with UX/UI design principles, unit testing, debugging UI and performance issues.
+
+Working Conditions:
+* In office on a hybrid basis is required  
+* 5% travel if necessary  
+* Mostly office environment and in engineer labs  
+* May be required to perform field tests  
+
+============================================================
+
+============================================================
+ID: 03
+Category: IT
+Language: English
+Level: Mid-level
+Title: Senior Data Analyst
+URL：https://www.linkedin.com/jobs/view/4398801278/?alternateChannel=search&eBP=CwEAAAGd7bxeZtifaKl-wDKkgRQOs2KK98SZteJEoicDfbqmJl9rehEgERcum6iv_HfMFVqYcE3z-zh2udqL5EadT18gpUM8ooOeZ3yOi2KA0IXG07Kx4iCZQENNgU0zM-mv5LzBOlwVSbKNvHw-SE8bAvl_-DVml8MVYCfAod8X9G8_1ViHHZ_WOnXHD-YDuCSkcC0q-iBHEWHz0M2I35Lv8b-kPzqU1iqj4vXOo5TlmMHUxFgqIPzNZlpsbSflr1TRh9yVldSyJCSUYoD3VPb5ZCC267dhKA82oCIxv9pflb7bzQfTFjZh4y5Rb8NLaBMH5cYfR7VUDvMKq556bgCp1ukMtkKViF3M1e8M23DfWY-wKlLiPTr_oiCdP6x-47uwUI1IpSY1LjhkyYxZt8J0coWUb9DUD19ETIbW2xu4O5U1zCi80y8Qj--6OvGCZtaCI40-x4PBAIzxD8QKp-KzJQZPsUx3ozt5fSmn_QDILUw-&trk=d_flagship3_search_srp_jobs&refId=veetSHYzT0%2FuAilrLYdr3g%3D%3D&trackingId=bzewctV0%2Fxwc0SS%2BwDP5lA%3D%3D
+
+[ANONYMIZED JD]
+We are [REDACTED], supporting a global organization scaling advanced marketing activation use cases within Adobe Experience Platform (AEP). We are looking for a Data Analytics Consultant to work in a modern GCP-based data environment in the Netherlands (Randstad region). This is a contract-based role focused on tracking, transforming, and visualizing the impact of marketing initiatives, with an emphasis on performance measurement and delivering data-driven insights.
+
+What you’ll be doing:
+* Tracking the performance of marketing use cases and measuring results against defined KPIs
+* Transforming and modeling data using dbt within a GCP environment
+* Building and maintaining Power BI dashboards to communicate insights to stakeholders
+* Collaborating with marketing, product, and analytics teams to drive data-led decisions
+
+What we’re looking for:
+* Strong hands-on experience with dbt, BigQuery
+* Advanced Power BI dashboard development skills
+* Strong SQL capabilities
+* Experience working in Agile environments
+* Experience with Adobe Experience Platform (AEP) or other Customer Data Platforms (CDPs)
+
+Nice to have:
+* Hands on experience with Google GCP
+* Background in marketing analytics, CRM, or performance marketing
+* Experience working in large-scale retail or omnichannel environments
+
+Details:
+* 12 month assignment - Interim payroll contract (No ZZP)
+* Hybrid / Randstad area x1 per week
+* €80k - 90k per year
+* Including 25 days paid leave, pension, expenses etc
+
+============================================================
+
+============================================================
+ID: 04
+Category: IT
+Language: English
+Level: Mid-level
+Title: Cloud Engineer
+URL：https://www.linkedin.com/jobs/view/4409418531/?alternateChannel=search&eBP=null&trk=d_flagship3_search_srp_jobs&refId=NotAvailable&trackingId=CAnhyEpeSPCzRsFiS2Wafw%3D%3D
+
+[ANONYMIZED JD]
+We are [REDACTED], a global Growth Invention company operating at the intersection of technology and marketing. We are looking for a Cloud Engineer to join our Experience & Engineering team in the Netherlands. You will build advanced cloud platforms for our clients and project teams, maintaining existing solutions in the smartest way possible. This role requires someone who can switch gears quickly and develop automatic workflows to accelerate team performance.
+
+What You’ll Do
+* Lead the infrastructure implementation/migration process from sprint 0 to go-live;
+* Collaborate to support a smooth integration and long-term operational efficiency;
+* Ensure best practices are established and deliver high quality work;
+* Collaborate effectively with our clients teams, including developers questions, to facilitate cross-team communication and ensure a seamless transition;
+* Troubleshoot and solve technical issues that may arise during the implementation/migration;
+
+What You Bring
+* Previous experience a Cloud Engineer (or similar role);
+* Multi-cloud platform experience (Microsoft Azure, AWS and/or GCP);
+* Experience with DevOps tooling for CI/CD, orchestration and monitoring like Azure DevOps, GitHub, Datadog, Cloudflare etc.;
+* Understanding of Cloud Security & Networking;
+* Experience with Infra-As-Code (i.e. Terraform);
+* The ability & ambition to take ownership of your projects;
+* Working proficiency of English;
+
+WE OFFER
+* A flexible, hybrid working policy (2-3 days from the office, depending on location) and the opportunity to work from abroad for 13 weeks a year;
+* 24 vacation days per year and the possibility to buy an unlimited number of extra vacation days;
+* [REDACTED] Learning Menu and [REDACTED] Special Programs. Develop your skills with courses and programs tailored to your needs;
+* Stay happy and healthy with a contribution to your health through the OpenUp platform, gym and wellness discounts, and healthy lunches at the office;
+* Get a discount on your lease bike and ride in style. You can also enjoy hassle free-commutes with an NS Business Card;
+* Awesome clients. Whether big, small, local or global — at [REDACTED] you’ll get the opportunity to work with all of them. And we celebrate all of our successes together;
+
+============================================================
+
+============================================================
+ID: 05
+Category: IT
+Language: Dutch
+Level: Junior
+Title: Junior Robotica Software Engineer
+URL：https://www.linkedin.com/jobs/view/4406178126/?alternateChannel=search&eBP=null&refId=NotAvailable&trackingId=W0xe26%2BaSIigfkShxr9o2A%3D%3D
+
+[ANONYMIZED JD]
+Wij zijn [REDACTED], een bemiddelingsbureau voor young professionals in de technische sector. Onze opdrachtgever is een jonge, groeiende organisatie die hoogwaardige intelligentie toevoegt aan industriële machines door motion te combineren met AI en computer vision.
+
+Wat ga jij doen?
+
+Als (Robotica) Software Engineer werk je in een multidisciplinair team waar mechanica, elektrotechniek, software en AI samenkomen. Je staat dicht bij de klanten en denkt vanaf dag één mee in het ontwikkelproces. Je werkt iteratief: van proefopstellingen en concepten tot een complete, werkende machine. Jouw inbreng maakt daarbij écht het verschil. Zo boekt het team snel resultaat en bouw je stap voor stap mee aan een complete, werkende machine.
+Jouw software zorgt ervoor dat op het juiste moment een foto wordt gemaakt, dat de data van die foto aan het juiste product wordt gekoppeld en dat de lineaire assen in de machine op basis van deze informatie nauwkeurig worden aangestuurd. Met andere woorden: jij geeft onze machines ogen, handen én een brein.
+Naast functionaliteit zorg je ook voor veiligheid en gebruiksvriendelijkheid. De machines die je helpt ontwikkelen worden wereldwijd ingezet – jouw werk draagt dus direct bij aan een veiligere en duurzamere industrie.
+
+Concreet houdt dit in:
+* Programmeren van PLC (object georiënteerd) en HMI (HTML, CSS en JS) voor machines
+* Het mee ontwikkelen van nieuwe machines en POC-opstellingen maken (R&D)
+* Mogelijkheid om ook met de AI-vision en robots aan de slag te gaan
+
+Sollicitatieprocedure
+De sollicitatieprocedure bestaat uit een kennismakingsgesprek met [REDACTED] en een interview bij de opdrachtgever gevolgd door een rondleiding.
+
+Wat bieden we?
+Onze opdrachtgever doet jou een aanbod, wanneer je de sollicitatieprocedure succesvol verloopt. Je kunt hierbij denken aan het volgende:
+* €3.000 - €3.500, afhankelijk van opleiding en ervaring
+* 25 vakantiedagen en 8% vakantiegeld
+* Bijdrage aan je pensioen
+* Laptop, vergoeding voor internet/telefonie en reiskosten
+* Voldoende mogelijkheid om je te blijven ontwikkelen, onder andere middels technische en/of soft skills trainingen
+* Afwisselende projecten en dynamisch werk met technisch uitdagende vraagstukken met veel vrijheid
+* Een prettige werksfeer, familiaire omgeving in een ambitieus en betrokken team
+
+Wat zoeken we?
+* Technische HBO of WO opleiding
+* Affiniteit met softwareontwikkeling, ervaring is een pre
+* Creatief en praktisch ingesteld
+* Vloeiend in Nederlands of Engels
+
+Overig
+Een assessment kan onderdeel uitmaken van de sollicitatieprocedure. Neem voor vragen contact op met [REDACTED].
+
+============================================================
+
+============================================================
+ID: 06
+Category: IT
+Language: Dutch
+Level: Junior-level
+Title: Java Software Developer
+URL：https://www.linkedin.com/jobs/view/4405178409/?alternateChannel=search&trk=d_flagship3_search_srp_jobs&refId=3ATdPWrLglfJnnNvupo2bA%3D%3D&trackingId=TkMdmJtH54iHrnxpFVb%2BrA%3D%3D
+
+[ANONYMIZED JD]
+Word de beste versie van jezelf als Java Developer
+Bij [REDACTED] krijg je de ruimte om de beste versie van jezelf te worden als Java Developer in [REDACTED], als collega én als mens. Je werkt samen met een community van meer dan 100 Java-specialisten die jouw passie voor softwareontwikkeling delen. Met ruimte om te leren, te experimenteren en jezelf te ontwikkelen, werk je aan innovatieve oplossingen voor organisaties waar technologie écht impact maakt. Vanuit Groningen werk je in de regio Noordoost, zowel hybride als op locatie, en draag je dagelijks bij aan duurzame groei en impactvolle resultaten.
+
+Waarom jij het verschil maakt
+Als Java Developer werk je aan robuuste en schaalbare softwareoplossingen binnen bedrijfskritische systemen voor organisaties zoals RDW, CJIB, DUO, KPN, Philips, Nationale-Nederlanden en de Politie. Je ontwikkelt moderne Java-applicaties en werkt met technologieën en werkwijzen zoals CI/CD en cloudplatforms, samen met multidisciplinaire teams.
+Daarnaast draag je actief bij aan onze Java-community. We delen kennis via meet-ups, (online) events en bezoeken conferenties zoals Devoxx en Jfall en je krijgt de mogelijkheid om bijvoorbeeld bij te dragen aan [REDACTED] of andere kennisinitiatieven
+
+Hiermee word je de beste versie van jezelf
+* Werken aan uitdagende IT projecten bij grote organisaties door heel Nederland
+* Samenwerken in een hechte community van Java specialisten die je inhoudelijk uitdagen
+* Persoonlijke begeleiding via een betrokken People Manager en een persoonlijk ontwikkelplan
+* Een sterk in-house L&D programma en een onbeperkt opleidingsbudget
+* Flexibele werkopties: parttime of hybride werken, afgestemd op jouw situatie
+
+Je kunt daarnaast rekenen op
+* Een vast contract van 32, 36 of 40 uur met een beloningsbudget tot maximaal €6.000 per maand, passend bij jouw ervaring
+* Een volledig ingerichte thuiswerkplek met ergonomische middelen
+* Een persoonlijk budget voor ontwikkeling, werkplezier en welzijn
+* Uitgebreide arbeidsvoorwaarden zoals 26 vakantiedagen, bonusmogelijkheden, een elektrische leaseauto, NS Business Card of mobiliteitsbudget
+* Een fietsleaseplan via Lease a Bike
+* Focus op mentale gezondheid en vitaliteit, met initiatieven zoals OpenUp, sportvergoeding en vitaliteitsprogramma’s
+* Ruimte voor duurzame keuzes via een duurzaamheidsbudget
+* Deelname aan een collectieve pensioenregeling en een aandelenprogramma
+
+Jouw talenten en ervaring
+* Aantoonbare ervaring als Java Developer of in een vergelijkbare rol
+* Ervaring met Java en moderne software development principes
+* Kennis van CI/CD, DevOps en cloudtechnologieën
+* Analytisch, resultaatgericht en een teamspeler
+* HBO werk- en denkniveau
+* Je spreekt vloeiend Nederlands (C1)
+
+============================================================
+
+============================================================
+ID: 07
+Category: IT
+Language: Dutch
+Level: Mid-level
+Title: Systeembeheerder
+URL：https://www.linkedin.com/jobs/view/4404782295/?alternateChannel=search&trk=d_flagship3_search_srp_jobs&refId=%2F%2FG1SOb%2FksHCUmPp1HgAAA%3D%3D&trackingId=ZholsYmW6XGne9fwn2Veyw%3D%3D
+
+[ANONYMIZED JD]
+Wat ga je doen:
+Ben jij een IT-professional die energie krijgt van een stabiele en veilige IT-omgeving? Dan is [REDACTED] op zoek naar jou!
+In deze rol ben je verantwoordelijk voor het beheer, onderhoud en de doorontwikkeling van onze IT-infrastructuur. Je vormt de verbindende factor tussen techniek en organisatie, zorgt voor een betrouwbare werkomgeving en helpt collega’s bij uiteenlopende IT-vragen.
+
+Jouw werkzaamheden:
+* Beheren en monitoren van servers, netwerken en werkplekken
+* Signaleren en verhelpen van storingen en knelpunten
+* Uitvoeren van updates en waarborgen van de IT-beveiliging
+* Implementeren van nieuwe systemen en verbeteren van bestaande processen
+* Vastleggen van systemen, procedures en oplossingen
+* Afstemmen met externe leveranciers en partners
+* Meedenken over IT-oplossingen die bijdragen aan de organisatiedoelen
+
+Bij [REDACTED] werk je in een dynamische omgeving waar mobiliteit en technologie samenkomen.
+
+Wat zoeken wij:
+* Minimaal MBO-4 of HBO werk- en denkniveau, bij voorkeur in de richting van IT
+* Ten minste 3 jaar ervaring als Systeembeheerder of vergelijkbaar
+* Kennis van Windows-servers, netwerken en IT-beveiliging
+* Goede communicatieve vaardigheden, ook richting niet-technische collega’s
+* Affiniteit met de automotive branche is een pré
+
+Wat bieden wij:
+* Een salaris van maximaal €5.000,- bruto per maand
+* Uitzicht op een vast dienstverband
+* 24 vakantiedagen en een solide pensioenregeling
+* Moderne werkplekken en up-to-date IT-middelen
+* Informele werksfeer met borrels, events en teamactiviteiten
+
+============================================================
+
+============================================================
+ID: 08
+Category: Healthcare
+Language: English
+Level: Junior
+Title: Clinical Research Associate - FSP 
+URL：https://www.linkedin.com/jobs/view/4407944303/?alternateChannel=search&eBP=CwEAAAGd7b5riIiJlpLrVd0qP_PCMCciI_No2Jq4dtijmllcXRBMPA74F2e0nnVZsanLTRNuJ4WcPAkdKd1_s70IkBM6JBEBd89vWGJ02fXsMNP4Yiq1uzQPQSV7x0AC1H5fv50wU702DXEy0W0pnAwh1EKK8X2lg3VOual7cLCItHRMeKO7lMzZFUnJxIEOpEIIW5yvGO-DNeNIUGQoj8jPYgBWMLNxT8XM0K4k-Hc44ICqf8vZwNde7ufNjcOL7-VPTphyK5DUu-Wk333LvNACkiAUJXYLP9n1PVPwbnGC6laRemS5rNQpL7-rlQScKuN9Fnc8JIEpEl1CQQAAQ4liI5uCXqIMdn_PHz9T7D8jV561kEG-11APOeHPATvNCXvVgpNkOJzIZqDiGeBW9vE24VN3XF_eNvpji_1NpRiWEdF8PWcjVnt92QgAEimiOPMKr4FOa_U4GQ7QLIZwf3ZwF9lvdQ52E0R-7M7yEj5QHbWLqhDuB7h6kv4qLNWC-G15QToXBpM_&trk=d_flagship3_search_srp_jobs&refId=%2F%2BQVJjwgy%2B3MZ8TN7xkqOQ%3D%3D&trackingId=mGhNPi6ob6ZybkFHEWkX7w%3D%3D
+
+
+Typical Accountabilities
+* Contributes to the selection of potential investigators.
+* In some countries, as required, CRAs are accountable for study start-up and regulatory maintenance. Tasks may include Site Qualification Visits, collection, preparation, review and tracking of documents for the application process; submission of proper application/documents to EC/IRB and to Regulatory Authorities for start-up and for the duration of the study.
+* Trains, supports, and advises Investigators and site staff in study related matters, including Risk Based Quality Management (RbQM) principles.
+* Confirms that site staff have completed and documented the required trainings appropriately, including ICH-GCP training, prior to and for the duration of the study. Ensures the sites are inspection ready at all times.
+* Actively participates in Local Study Team (LST) meetings.
+* Contributes to National Investigators meetings, as applicable.
+* Initiates, monitors and closes study sites in compliance with client’s Procedural Documents. Shares information on patient recruitment and study site progress (site quality/performance) within the LST.
+* Drives performance at the sites. Proactively identifies and ensures timely resolution to study-related issues and escalates them as appropriate.
+* Updates CTMS and other systems with data from study sites as per required timelines.
+* Manages study supplies (ISF, etc), drug supplies and drug accountability at study site. Prepares study drug for destruction, if applicable.
+* Performs monitoring visits (remote and onsite), as well as remote data checks, in accordance with the timelines specified in the study specific Monitoring Plan. If required, determines and discusses with LSAD the correct timing and type of visits.
+* Performs Source Data Review (SDR), Case Report Form (CRF) review and Source Data Verification (SDV), in accordance with the Monitoring Plan.
+* Performs regular Site Quality Risk Assessments and adapts monitoring intensity accordingly during the study.
+* Ensures data query resolution in a timely manner.
+* Works with data management to ensure robust quality of the collected study data.
+* Ensures accurate and timely reporting of Serious Adverse Events and their follow ups.
+* Prepares and finalises monitoring visit reports in CTMS and provides timely feedback to the Principal Investigator, including follow-up letter, within required timelines and in line with client’s SOP.
+* Follows up on outstanding actions with study sites to ensure resolution in a timely manner.
+* Follows quality issue processes by escalating systematic or serious quality issues, data privacy breaches, CSP or ICH-GCP compliance issues to Local Management and/or CQM as required.
+* Assists site in maintaining inspection ready ISF.
+* Prepares for and collaborates with the activities associated with audits and regulatory inspections in liaison with LSAD and CQAD.
+* Ensures timely collection/uploading of essential documents into the eTMF in accordance with ICH-GCP, client SOPs and local requirements. Supports/participates in regular QC checks performed by LSAD or delegate.
+* Ensures that all study documents under their responsibility (i.e., site documents, relevant communications, etc) are available and ready for final archiving and completion of local part of the eTMF.
+* Provides feedback on any research related information including sites/investigators/competing studies that might be useful for the local market.
+* Ensures compliance with client’s Code of Ethics, company policies and procedures relating to people, finance, technology, security and SHE (Safety, Health and Environment).
+* Ensures compliance with local, national and regional legislation, as applicable.
+* Collaborates with local MSLs as directed by LSAD or line manager.
+
+Essential
+Education, Qualifications, Skills and Experience
+* Bachelor degree in related discipline, preferably in life science, or equivalent qualification (*)
+* Excellent knowledge of international guidelines ICH-GCP, basic knowledge of GMP/GDP
+* Good knowledge of relevant local regulations
+* Good medical knowledge and ability to learn relevant client’s Therapeutic Areas
+* Basic understanding of the drug development process
+* Good understanding of Clinical Study Management including monitoring, study drug handling and data management
+* Excellent attention to details
+* Good written and verbal communication skills
+* Good collaboration and interpersonal skills
+* Good negotiation skills
+* Ability to travel nationally/internationally as required
+* Valid driving license (*)
+
+Desirable
+* Ability to work in an environment of remote collaborators
+* Manages change with a positive approach; sees change as opportunity
+* Ability to improve efficiency and effectiveness of clinical trial delivery
+* Good analytical and problem-solving skills
+* Ability to prioritize and manage multiple tasks with conflicting deadlines
+* Familiar with risk-based monitoring approach including remote monitoring
+* Good cultural awareness
+* Ability to use and develop computer skills in an e-enabled environment
+* Team oriented and flexible; ability to respond quickly to shifting demands
+
+Key stakeholders and relationships
+
+Internal (to client or team)
+
+* LSADs and Local Study Teams
+* Line Manager and local SMM LT
+* Clinical Quality Associate Director
+* Local Medical Teams: MSLs and Medical Affairs
+* Global Study Teams
+* Global Clinical Solutions functions
+* Clinical Data Management
+* Regulatory Affairs
+* Patient Safety
+
+External (to client)
+* Investigators and site personnel
+* Study related vendors
+* Inspectors
+
+============================================================
+
+============================================================
+ID: 09
+Category: Healthcare
+Language: English
+Level: Junior
+Title: Site Research Assistant
+URL：https://www.linkedin.com/jobs/view/4384703576/?alternateChannel=search&eBP=null&refId=NotAvailable&trackingId=J4Y3tmZMQkKPoEtaR1BIMg%3D%3D
+
+[ANONYMIZED JD]
+Site Research Assistant – Nijmegen
+Part-Time (24 hours per week)
+Start Date: Immediate
+Contract Duration: Approximately 6 months
+[REDACTED] is currently recruiting a Site Research Assistant to support a clinical research site in Nijmegen. This part-time role offers the opportunity to contribute to high-quality clinical research in a structured and collaborative site environment.
+The Site Research Assistant will support the day-to-day execution of the clinical trial by providing administrative and clinical support in accordance with the study protocol, applicable regulations, and site procedures.
+
+Key Responsibilities
+* Maintain, organize, and update study documentation, including protocols, case report forms (CRFs), and Electronic Data Capture (EDC) systems
+* Coordinate logistical activities related to study visits and procedures in line with the study protocol
+* Perform data entry, conduct quality checks, and support query resolution to ensure data accuracy and completeness
+* Communicate with study monitors and respond to study-related questions and requests
+* Support patient recruitment activities, including patient education and community outreach
+* Perform general administrative tasks in support of ongoing study activities
+
+Required Qualifications & Experience
+* Bachelor’s degree in life sciences or equivalent education and/or relevant experience in a clinical or medical setting (e.g., Clinical Research Assistant, Clinical Research Coordinator, Research Nurse, Medical Assistant)
+* Minimum 1–2 years of experience working at a clinical trial site as a Clinical Research Assistant, Research Nurse, or Clinical Research Coordinator
+* Good understanding of clinical trial processes, including study protocols, informed consent, and study schedules
+* Good knowledge of medical terminology
+* Strong IT skills, including proficiency in MS Office (Outlook, Word, Excel, Access)
+* Strong organizational skills and high attention to detail
+* Excellent interpersonal and communication skills
+* Fluency in Dutch and good command of English
+
+============================================================
+
+============================================================
+ID: 10
+Category: Healthcare
+Language: Dutch
+Level: Mid-level
+Title: R&D Technician (Organic Chemistry)
+URL：https://www.linkedin.com/jobs/view/4405339380/?alternateChannel=search&eBP=null&refId=NotAvailable&trackingId=749YhHx7THibcFdpgUYCFg%3D%3D
+
+[ANONYMIZED JD]
+Verantwoordelijkheden
+Als R&D technician ben je verantwoordelijk voor het ontwerpen, verbeteren en uitvoeren van organisch chemische syntheses om zo productieprocessen efficiënter te maken, nieuwe producten te kunnen ontwikkelen of op een slimme manier de chemie groener te maken. Hierbij voer je zelfstandig literatuuronderzoek, synthese, opzuivering en karakterisering (HPLC, NMR, IR, MS) uit en denk je mee met hoe processen opgeschaald kunnen worden. Daarnaast ondersteun je andere R&D projecten en werk je veel samen met QC, productie, QESH en andere afdelingen.
+
+Vereisten
+Voor deze uitdagende vacature zoeken we naar een research technician met de volgende achtergrond:
+* Een afgeronde HLO of MSc opleiding in de richting van organische chemie, scheikunde, chemische technologie, katalyse of soortgelijk
+* Minimaal 5 jaar ervaring met uitvoeren van organische synthese
+* Goede kennis van veelgebruikte karakteriseringstechnieken (NMR, HPLC, IR, etc.)
+* Goede kennis van flow chemistry of heterogene katalyse is een sterke pré
+* Ervaring in een productie omgeving is een pré
+* Goede communicatieve vaardigheden en sterk in samenwerken
+* Vloeiend in zowel Engels als Nederlands
+Kandidaten met een PhD, starters en/of kandidaten die de Nederlandse taal niet eigen zijn worden niet overwogen.
+
+Aanbod
+Bij dit internationale bedrijf worden hoogwaardige grondstoffen geproduceerd die gebruikt worden in tal van industrieën. Door het specialistische karakter van dit bedrijf heeft R&D een belangrijke plaats. Het team is sterk groeiend en bestaat uit ervaren collega’s met een diepgaande kennis van organische chemie en chemische technologie.
+
+Arbeidsvoorwaarden
+* Salaris tussen de €3800 en €4800 per maand o.b.v. fulltime dienstverband
+* 13e maand
+* Goed pensioenplan
+* Reiskostenvergoeding
+* Fulltime dienstverband
+* Meer dan 30 vakantiedagen per jaar
+
+============================================================
+
+============================================================
+ID: 11
+Category: Healthcare 
+Language: Dutch
+Level: Junior 
+Title: Verpleegkundige Mbo/Hbo
+URL：https://www.linkedin.com/jobs/view/4389710035/?alternateChannel=search&trk=d_flagship3_search_srp_jobs&refId=9ACmkDas%2Fml16cBAqZ61QA%3D%3D&trackingId=IYi88%2FAEyzxxbbwH0xtn2A%3D%3D
+
+[ANONYMIZED JD]
+Zelfstandig behandelen wordt afgewisseld met o.a. deskundigheidsbevordering en intervisie. Je werkt vaak solistisch, maar niet alleen. Je hebt je eigen caseload en wordt daarnaast ingezet voor het verpleegkundig spreekuur en bureaudienst.
+Uitdagend en afwisselend werk met volop ruimte voor eigen initiatief
+Groeien als professional en als mens
+Samen werken in een hecht team
+Zelf de regie over je dag
+
+Team en werkomgeving
+De Polikliniek Dordrecht is een bruisende polikliniek die volop in ontwikkeling is. De ervaring en deskundigheid die jij meeneemt vinden we waardevol; jouw kwaliteiten verbreden onze kwaliteiten en andersom. Ons team richt zich op de behandeling van cliënten met o.a. verslavingsproblematiek en ADHD. Het is een veelkleurig team waarin een psychiater, verslavingsartsen, verpleegkundigen en HBO-behandelaars samenwerken in de behandelingen.
+
+Vereisten
+Je bent BIG-geregistreerd verpleegkundige met kennis van en ervaring in de ggz
+Je bent christen
+Je bent een stabiele, zelfbewuste persoonlijkheid
+Je bent sociaal vaardig
+Je kunt goed omgaan met stressvolle en/of onverwachte situaties
+Bij gelijk gebleken geschiktheid hebben interne kandidaten onze voorkeur.
+
+Arbeidsvoorwaarden
+Onze arbeidsvoorwaarden zijn conform de CAO GGZ schaal 45-50 afhankelijk van opleiding en ervaring, zoals 8% vakantiegeld en 8,33% eindejaarsuitkering. Maar we bieden nog meer:
+
+* 166 vakantie-uren + 35 levensfasebudget-uren naar rato
+* Pensioenregeling bij PFZW
+* Een persoonlijk onboardingplan om je tijd goed te beginnen
+* Interne en externe ontwikkelmogelijkheden, inclusief opleidingen tot o.a. verslavingsarts, SPV, verpleegkundig specialist, GZ-psycholoog of klinisch psycholoog
+* Regelmatige deskundigheidsbevorderingen door collega’s
+* Thuiswerkregeling met o.a. eigen bureau en stoel die na verloop van tijd jouw eigendom worden
+* Fiscale uitruilregeling voor o.a. fiets, PC en fitnessabonnement
+* Toegang tot GGZ Ecademy met meer dan 100 e-learnings
+* Een werkplek waar werk en geloof gecombineerd wordt, met dagopeningen en centrale bezinningsmomenten
+
+Opmerking
+Acquisitie n.a.v. deze vacature wordt niet op prijs gesteld.
+
+============================================================
+
+============================================================
+ID: 12
+Category: Healthcare 
+Language: Dutch
+Level: Junior
+Title: Verpleegkundige MBO of HBO
+URL：https://www.linkedin.com/jobs/view/4399648205/?alternateChannel=search&trk=d_flagship3_search_srp_jobs&refId=iCwCXxlkn5%2F9mfP%2BjBT0vw%3D%3D&trackingId=hXclhb7KLsZZnpvd3y7%2BwQ%3D%3D
+
+[ANONYMIZED JD]
+🧠 Jij wilt meer dan “gewoon werken in de zorg”
+Je wilt je verdiepen. In mensen. In gedrag. In jezelf.
+En je zoekt een plek waar je de ruimte krijgt om te groeien én mee te bouwen aan hoe zorg beter kan.
+Bij [REDACTED] hoef je niet in één hokje te passen.
+Wij kijken samen met jou waar jij het beste tot je recht komt.
+
+Welke uitdaging ga je aan?
+Als Verpleegkundige werk je met volwassenen met ernstige psychiatrische aandoeningen (EPA). Je speelt een belangrijke rol in hun dagelijks leven én herstel. Afhankelijk van jouw voorkeur werk je:
+* Ambulant in de wijk
+* Op een klinische afdeling
+* Binnen beschermd wonen
+* Of in de acute zorg
+
+Wat je in ieder geval doet
+* Je begeleidt cliënten in hun herstelproces
+* Je biedt structuur, rust en vertrouwen
+* Je signaleert veranderingen en schakelt met collega’s
+* Je werkt samen in een multidisciplinair team
+* Je denkt mee over hoe we de zorg kunnen vernieuwen
+👉 Geen dag is hetzelfde. En juist dat maakt jouw werk betekenisvol.
+
+Job Requirements
+
+Wie ben jij?
+Of je nu MBO of HBO bent: jouw houding maakt het verschil.
+Jij:
+* Hebt een diploma Verpleegkunde (MBO of HBO)
+* Bent 24 uur beschikbaar per week
+* Bent nieuwsgierig en wilt je blijven verdiepen
+* Staat stevig in je schoenen
+* Werkt vanuit aandacht en oprechte interesse
+* Durft mee te denken en dingen anders te doen
+💬 Bij [REDACTED] geloven we dat diversiteit ons sterker maakt.
+Wie je ook bent, wat je achtergrond ook is — jij bent welkom.
+
+Wat bieden wij jou?
+Bij ons krijg je geen standaard functie, maar een plek die bij je past:
+* We kijken samen naar de werkomgeving die bij jóu past
+* Ruimte om jezelf te ontwikkelen en door te groeien
+* Mogelijkheden om verschillende doelgroepen en teams te ontdekken
+* Een organisatie die continu bezig is met vernieuwen
+* Salaris volgens CAO GGZ
+👉 Hier hoef je niet alles al te kunnen. Als jij wilt leren, investeren wij in jou.
+
+Wat krijg je van [REDACTED]?
+* Een contract voor bepaalde tijd voor 24 tot 36 uur met uitzicht op vast
+* Een bruto maandsalaris tussen de €3.088,- en €4.579,- op basis van een 36-urige werkweek (FWG 45-50 conform CAO GGZ)
+* Een eindejaarsuitkering 8,33% van het bruto jaarsalaris
+* 8,33% vakantietoeslag, 166 vakantie-uren en 35 LFB-uren per jaar (bij fulltime dienstverband)
+* Reis- en onkostenvergoeding
+* Een pensioenregeling bij pensioenfonds Zorg en Welzijn
+* Meerkeuze systeem arbeidsvoorwaarden (bijv. elektrische fiets of extra verlofdagen)
+* Keuze uit twee collectieve ziektekostenverzekeringen
+* Jaarlijks een balansbudget van maximaal €1000,- (of €1.400 bij inzet voor opleiding op voltijdsbasis)
+* Opleiding en ontwikkeling via een interne academie met zorginhoudelijke scholingsprogramma’s
+
+============================================================
+============================================================
+ID: 13
+Category: Healthcare
+Language: Dutch
+Level: Mid-to-Senior level
+Title: Basispsycholoog / GZ-psycholoog
+URL: https://www.linkedin.com/jobs/view/4379173450 (Note: URL refers to original context)
+
+[ANONYMIZED JD]
+Ben jij een gedreven psycholoog met een hart voor de ouderenzorg? Zoek je een veelzijdige rol waarin je diagnostiek, behandeling en coaching combineert binnen een ambitieus team? Als Basispsycholoog of GZ-psycholoog bij onze organisatie krijg je de vrijheid om je eigen agenda in te delen en een wezenlijke bijdrage te leveren aan de kwaliteit van leven van onze cliënten. Je werkt in een multidisciplinaire setting waar eigen regie en een zinvolle daginvulling centraal staan.
+
+Locatie: Drecht Cities (regio)
+Uren: 24 - 28 uur per week
+Salaris: Max. € 5.962,34 (Basis) / € 7.018,30 (GZ) op basis van 36 uur
+
+Jouw impact
+Als psycholoog ben je de spil in het begrijpen en verbeteren van het welzijn van onze cliënten. Jouw analyses vormen de basis voor de zorg die wij bieden.
+
+Diagnostiek & Behandeling: Je richt je op complexe vraagstukken rondom cognitie, stemming, angst en gedrag.
+
+Regie & Advies: Je stelt behandelplannen en benaderingsadviezen op die de zelfredzaamheid van cliënten ondersteunen.
+
+Deskundigheidsbevordering: Je coacht zorgteams via gedragsoverleggen en klinische lessen om hun omgang met onbegrepen gedrag te professionaliseren.
+
+Wet- en regelgeving: Je adviseert over en ziet toe op de naleving van de Wet Zorg en Dwang (WZD).
+
+Samenwerking: Je spart laagdrempelig binnen een team van psychologen en assistenten.
+
+Hier ga je aan de slag
+Je komt te werken bij een zorgorganisatie in de regio Drecht Cities die volop in ontwikkeling is en inspeelt op de veranderende zorgvraag. Je maakt deel uit van een professioneel team bestaande uit tien basispsychologen, twee GZ-psychologen en een assistent. De cultuur is collegiaal, laagdrempelig en gericht op continue verbetering van de ouderenzorg.
+
+Dit bieden wij jou
+
+Een jaarcontract voor 24-28 uur per week met uitzicht op verlenging.
+
+Inschaling conform CAO VVT (FWG 60 voor basispsychologen; FWG 65 voor GZ-psychologen).
+
+8% vakantiegeld en een eindejaarsuitkering van 8,33%.
+
+Uitgebreid BalansBudget (sparen tot 100 weken verlof).
+
+Ruime opleidingsmogelijkheden om je vakinhoudelijk verder te ontwikkelen.
+
+Reiskostenvergoeding inclusief tunnel- en toltekosten.
+
+Dit neem jij mee
+
+Een afgeronde master psychologie (WO) of een afgeronde opleiding tot GZ-psycholoog met BIG-registratie.
+
+Relevante werkervaring in de ouderenzorg of psychogeriatrie is een sterke pré.
+
+In het bezit van een BAPD-aantekening (pré).
+
+Rijbewijs B en eigen vervoer (noodzakelijk voor het bezoeken van verschillende locaties).
+
+Je bent analytisch sterk, proactief en communicatief vaardig richting cliënten, naasten en collega-behandelaren.
+============================================================
+
+============================================================
+ID: 14
+Category: Healthcare
+Language: Dutch
+Level: Mid-level 
+Title: Senior Verpleegkundige 
+URL：https://www.linkedin.com/jobs/view/4358500998/?alternateChannel=search&trk=d_flagship3_search_srp_jobs&refId=4kFl0U0XU3vv5cOG8wEDmw%3D%3D&trackingId=py2nTxAMy7SWas2%2ByYQpag%3D%3D
+
+[ANONYMIZED JD]
+Ben jij een ervaren verpleegkundige met een passie voor ouderen en uitdagende psychiatrische zorg? Wil je jouw expertise op somatisch én psychiatrisch gebied inzetten én een actieve rol hebben in de teamontwikkeling? Als senior verpleegkundige op onze open behandelafdeling krijg je de kans om impact te maken: in de zorg voor cliënten én als coach en voorbeeld voor collega’s. Klaar voor deze uitdaging?
+Wolfheze
+24-36 uur
+€3.456,- tot €4.579,-
+
+Jouw impact
+
+Als senior verpleegkundige draag je extra verantwoordelijkheid voor de ontwikkeling en resultaten van jouw afdeling en het cluster Klinisch Voortgezette Behandeling Ouderen (KVBO). Je bevordert de samenwerking tussen het verpleegkundig team, het behandelteam en de zorgmanager. Ook denk je actief mee over veranderingen en verbeteringen. Jouw taken zijn verder:
+* Verlenen van dagelijkse zorg en begeleiding, waarbij je als voorbeeld fungeert voor je collega’s
+* Coördineren van het primaire zorgproces samen met de meewerkend teamleider en het multidisciplinaire team
+* Actief meedenken en voorstellen doen voor verbeteringen en veranderingen binnen de afdeling
+* Aandachtsgebieden oppakken die de afdeling overstijgen en collega’s coachen, zowel gevraagd als ongevraagd
+* Zorgdragen voor een veilig en stimulerend behandelklimaat
+
+Hier ga je aan de slag
+Je werkt op de open behandelafdeling de Brink van het cluster KVBO in Wolfheze, waar cliënten vanaf 60 jaar met gecompliceerde psychiatrische aandoeningen intensieve vervolgbehandelingen krijgen. Met een focus op rehabilitatie en zelfredzaamheid streven we naar een zo normaal mogelijk leven voor de cliënten. Samen kijken we welk team het beste past bij jouw kwaliteiten.
+Je werkt in een enthousiast en divers team van 15-20 collega’s, waaronder (senior) verpleegkundigen, begeleiders en een meewerkend teamleider. Samen zetten we ons met humor en inzet in voor de beste zorg en kwaliteit van leven voor onze cliënten.
+Het cluster KVBO is onderdeel van Pro Persona; een op ontwikkeling gerichte GGZ-instelling in Gelderland, met meer dan 3.500 medewerkers in Arnhem, Ede, Nijmegen, Tiel, Veenendaal en Wolfheze.
+
+Dit bieden wij jou
+Je krijgt een dienstverband van 24 tot 36 uur. Je wordt ingeschaald volgens de CAO GGZ in FWG 50, met een salaris tussen €3.456,- en €4.579,- op basis van een 36-urige werkweek.
+Daarnaast krijg je:
+* Werkdagen, aantal uur en type dienstverband in overleg
+* 166 vakantie-uren en 35 verlofuren per jaar (fulltime)
+* 8,33% vakantiegeld, 8,33% eindejaarsuitkering en pensioenopbouw bij Pensioenfonds Zorg en Welzijn
+* Jaarlijks balansbudget van €1.000,- naar rato
+* Meerkeuzesysteem arbeidsvoorwaarden (o.a. sport, reiskosten, studie, ICT-middelen, fiets, vakbondscontributie)
+
+Dit neem jij mee
+* Je bent een enthousiaste verpleegkundige op niveau 5 met minimaal 2 jaar werkervaring en bent BIG geregistreerd.
+* Je hebt affiniteit met de ouderenzorg, onderhoudt je vakkennis en vaardigheden en staat stevig in je schoenen.
+* Je kunt visie op kwaliteit van zorg vertalen naar realistisch beleid en implementatie op de afdeling.
+Daarnaast:
+* Je beschikt over coachende vaardigheden om collega’s te motiveren en begeleiden
+* Je hebt doorzettingsvermogen, daadkracht en een gezonde balans tussen empathie en zakelijkheid
+* Je bent initiatiefrijk en enthousiast en signaleert kansen
+
+============================================================
+
+============================================================
+ID: 15
+Category: Administration
+Language: English
+Level: Junior
+Title: Office Assistant
+URL：https://www.linkedin.com/jobs/view/4408237340/?alternateChannel=search&trk=d_flagship3_search_srp_jobs&refId=5ysT0tka1eyMARrCg%2FDj9w%3D%3D&trackingId=LEe8ncXDt2KpQyyzeq17QA%3D%3D
+
+[ANONYMIZED JD]
+About the job
+We are looking for a proactive and well-organized Office Assistant with a background in legal administration or accounting to support our growing team in Breda. The ideal candidate is detail-oriented, reliable, and comfortable working in a dynamic international environment. This role combines general office support with administrative tasks related to legal, compliance, and/or accounting processes.
+
+Key Responsibilities
+* Provide daily administrative and operational support to the Breda office
+* Assist with preparing, reviewing, and organizing legal or financial documents
+* Maintain client files, contracts, and internal documentation
+* Support the accounting team with basic bookkeeping tasks (invoices, receipts, data entry)
+* Assist with compliance checks and KYC/AML documentation
+* Coordinate communication with clients, partners, and internal teams
+* Manage office supplies, scheduling, and general office logistics
+* Support management with ad-hoc tasks and small internal projects
+* Ensure smooth day-to-day functioning of the office
+
+Requirements
+Ideal skills and qualifications:
+* MBO-level education (preferably in administration, legal services, finance, or accounting)
+* 1–3 years of experience in an administrative, legal, or accounting support role
+* Strong organizational and multitasking skills
+* Good command of Dutch and English (written and spoken)
+* Proficiency with MS Office (Word, Excel, Outlook)
+* Accuracy, attention to detail, and a proactive attitude
+* Ability to work independently and as part of a team
+* Discretion and professionalism when handling confidential information
+
+Preferred Qualifications
+* Experience in a legal, corporate services, or accounting environment
+* Familiarity with KYC/AML procedures
+* Basic understanding of Dutch corporate documents and financial terminology
+
+What We Offer
+* A stable full-time position in a professional and international environment
+* Opportunities for growth and development
+* Supportive team and pleasant working atmosphere
+* Competitive salary based on experience
+* Modern office located in Breda
+
+============================================================
+
+============================================================
+ID: 16
+Industry: Administration
+Language: English
+Level: Mid-level
+Title: Project Coordinator
+URL：https://www.linkedin.com/jobs/view/4405310636/?alternateChannel=search&eBP=CwEAAAGd7cljSwgw3Equ51_JLW2sU3HiGBMA1T5YoLrTxJezEJUGa6We0VKhIRk-xyw3pAwSr8Fiz430GmNXNFKuncqbpzKb2i74I26CiraReD1cIGqPXdJF-RnLppglPcxISAiPvvKpbkujvEwXuJKG50JWXJbCa4eIURs1BylxLn0EoRZ1LsORLa33gfKxSy5TItkmxTVMqjd73QIA7Qq8CLld4OcHnI-wkaK4U2vFfoZsdp0jUrb1w-F92xeEhjCYIPrIA_taxF7w80UD7CoB4khqqlWqKa03f3vcaeUVElGqzMkROmREmCjIpprhQ0iqPCq6RoX5R0HMgyFI61thnIJB88upL9UyqVWyShMSD5qnXTvgLfWwfhcl2k2A4WZhIdbT8nQYrkjbIE4ytn8UCr0OiM1PxV3eXPmyDgGx1hl6vQRa09rw-WRW5l0hmeUAW5c1tZEli1D_uAyqJvqUAAaSRRbfqEVtuEXxehurwu1flqY&trk=d_flagship3_job_details&refId=Vza%2BWuFEXcuwLeH%2BOk5ChQ%3D%3D&trackingId=KvDvUA5NAKhZIL3U6XetHw%3D%3D
+
+[ANONYMIZED JD]
+Project Coordinator / Work Planner
+Locations: [Location REDACTED], Netherlands
+Working Hours: 40 hours per week
+Contract Period: 10 May 2026 – 31 December 2026
+Required Experience: Minimum 5 years
+Education Level: HBO (Bachelor level)
+Extension Option: No
+Self-Employed Allowed: No
+
+[Location REDACTED]
+The Project Execution department within Grid Field Operations Netherlands (GFO-N) is responsible for the predictable, safe, and high-quality realization and decommissioning of assets, in line with the functional specifications defined by the Asset Manager.
+Project Execution teams are fully accountable for the preparation and execution of projects within set boundaries of scope, time, quality, and budget.
+
+Role Summary
+As a Project Coordinator / Work Planner, you are responsible for ensuring that all preparatory activities are completed so that projects and operational works can start and finish smoothly, safely, and in accordance with agreements.
+You act as the central point of coordination and control within the project team, where all project information comes together.
+
+Key Responsibilities
+* Monitoring and reporting on integrated project quality across all project control aspects (GROTIK: Scope, Risk, Organization, Time, Information, Cost), acting as the “conscience” of the project team
+* Supporting the Project Manager in preparing:
+    * Project management meetings
+    * Periodic progress and accountability meetings with the Lead
+* Preparing and updating monthly and quarterly financial forecasts, including:
+    * Cashflow
+    * ETC (Estimate to Complete)
+    * EAC (Estimate at Completion)
+    * Substantiating deviations from the approved budget
+* Preparing, maintaining, and updating project schedules to ensure contractual milestones and final commissioning dates are met
+* Developing and maintaining internal resource planning per project and processing this in relevant systems
+* Preparing, updating, and monitoring project risk registers
+* Managing internal documentation together with the Document Controller, including:
+    * Contract documentation
+    * Requests for Change (RFC)
+    * Requests for Acceptance (RFA)
+* Monitoring review and approval timelines with contractors
+* Monitoring Owner-Supplied Goods (client-direct supplies) delivered to contractors
+
+Candidate Profile
+Education & Experience
+* HBO-level education or equivalent working and thinking level
+* 5–10 years of recent experience in roles such as:
+    * Work Planner
+    * Project Coordinator
+    * Project Controls Manager
+* Experience in infrastructure or technically oriented organizations, preferably within the energy sector
+
+Skills & Competencies
+* Familiarity with project control systems for managing:
+    * Cost
+    * Planning
+    * Risk
+    * Documentation
+        (Within the client: IFS, Primavera, ARM, Meridian)
+* Strong communication and negotiation skills
+* Excellent organizational, planning, and prioritization abilities
+* Professional, analytical, flexible, and able to work independently
+* Strong stakeholder awareness and organizational sensitivity
+* Proven ability to collaborate effectively with:
+    * Project Managers
+    * Project team members
+    * Internal and external stakeholders
+
+Preferred (not mandatory):
+* Experience with different contract types (Specifications / Bestek, UAV, UAV-GC)
+* Systems-Oriented Contract Management
+* Project management methodologies such as PRINCE2 or IPMA
+* Full professional proficiency in Dutch and English (spoken and written), due to contractor communication requirement
+
+Important Information
+Primary workplace schedule:
+* 2 days per week in Hoogeveen (preferably Monday and Tuesday)
+* 2 days per week in Eemshaven (Thursday mandatory)
+* 1 day per week remote (home office)
+------------------------------------------------------------
+============================================================
+
+============================================================
+ID: 17
+Category: Administration
+Language: English
+Level: Mid-level
+Title: Project Controls Specialist (June/July 2026)
+URL：https://www.linkedin.com/jobs/view/4403223245/?alternateChannel=search&trk=d_flagship3_search_srp_jobs&refId=44F5ms26XwyO9vXzMx5k7A%3D%3D&trackingId=sHWYARrPXnFHRfPI6M7EJg%3D%3D
+
+[ANONYMIZED JD]
+About the Role:
+[REDACTED] is a global project management consultancy specializing in Project Controls, PMO, and project delivery support for large and complex projects across industries such as aerospace, defense, energy, transportation, and manufacturing.
+
+Location
+Netherlands (Randstad Area – Amsterdam / Rotterdam / Eindhoven / Leiden)
+Full-time | Permanent Contract | Hybrid Working Model (4 days/week)
+
+Role Overview
+As a Project Controls Specialist, you will support major client projects by ensuring robust planning, scheduling, cost control, risk management, and performance reporting. You will work closely with Project Managers and stakeholders to drive successful project execution.
+
+Key Responsibilities
+* Develop, maintain, and monitor project schedules
+* Perform cost tracking and forecasting
+* Identify, assess, and manage project risks
+* Prepare KPI dashboards and progress reports
+* Support change management processes
+* Provide data-driven insights to support decision-making
+
+Requirements
+* Bachelor’s or Master’s degree in Engineering is appreciated
+* 2–7 years of experience in Project Controls, Planning, or PMO roles
+* Proficiency with planning tools (Primavera - P6, MS Project, Jira)
+* Strong analytical and reporting skills (Excel, Power BI is a plus)
+* Fluent in English
+* Dutch is an advantage
+* Excellent communication and stakeholder management skills
+
+Additional Requirements (job poster)
+* Bachelor’s Degree
+* No need for visa sponsorship
+* Authorized to work in Netherlands
+
+============================================================
+
+============================================================
+ID: 18
+Industry: Administration 
+Language: Dutch
+Level: Junior 
+Title: Administratief medewerker pensioenen
+URL：https://www.linkedin.com/jobs/view/4406968815/?alternateChannel=search&trk=d_flagship3_search_srp_jobs&refId=AhTKqa7aF6ne%2BGYl%2BXmZNA%3D%3D&trackingId=TNwXkcclNLiMgJlqii%2Bmjg%3D%3D
+
+[ANONYMIZED JD]
+Wat ga je precies doen:
+Als administratief medewerker pensioenadministratie werk je aan het zorgvuldig beheren van pensioenregelingen. Je controleert of berekeningen en mutaties correct zijn uitgevoerd en signaleert afwijkingen. Met jouw analytische blik draag je bij aan procesverbeteringen en zorg je ervoor dat gegevens altijd up-to-date blijven. Daarnaast ondersteun je collega’s en andere afdelingen bij het implementeren van nieuwe wet- en regelgeving.
+Je werkt in een dynamisch team waar samenwerking en open communicatie centraal staan. Na een gedegen inwerkperiode krijg je de ruimte om zelfstandig te werken, met de mogelijkheid om hybride te werken. Je dagen zijn afwisselend en bieden een mix van administratieve taken, analyses en ondersteuning. Samen met je team zorg je voor een soepel lopende pensioenadministratie in een veranderende omgeving.
+
+Wat bieden we jou:
+Bij [REDACTED] geloven we in het ondersteunen van jouw professionele en persoonlijke groei. We bieden je een werkomgeving waarin jouw talenten worden gewaardeerd en je een gezonde balans tussen werk en privé kunt behouden.
+* Een bruto uurloon van €18,29.
+* Een tijdelijk contract met kans op verlenging.
+* Een werkweek van 32 tot 38 uur.
+* Reiskostenvergoeding van €0,23 per km (max. 60 km enkele reis).
+* Thuiswerkvergoeding van €8,31 per week.
+
+Functie-eisen:
+Ben jij nauwkeurig, flexibel en heb je affiniteit met pensioenadministratie?
+* Minimaal een hbo-diploma.
+* Ervaring met financiële of pensioenadministratie is een pre.
+* Nauwkeurig, zelfstandig en communicatief vaardig.
+* Beschikbaar voor 32–38 uur per week in Groningen.
+
+============================================================
+
+============================================================
+ID: 19
+Industry: Administration
+Language: Dutch
+Level: Junior
+Title: Administrative Associate / administratief medewerker
+URL：https://www.linkedin.com/jobs/view/4400642618/?alternateChannel=search&eBP=CwEAAAGd7dASGvBDoQ3omH3tAwUqhUK7oStqKuSANnaWmqp1IeadTmIPOlaY2W8gbsA6P129v-rTQOgCPXDZW29crSIcWvYgNtvncbLtIDfy--ixSnm53l82ZlRk8EdcVOCDz_G3g9TFLp6Mt4JSXpOm9-OpdCiPPz8wEWEanxCU8W0HK2QkyvUHRQxZm9RWFIAdxEwZNzYjF9DuA64RBxjNE2VzKlVX6Rg5b2ZmT2IVRgE3Wnl6ACuqnpdYLEvTjTrQM4tqE38eYmGCLS8i93YWK99VvqEK5Qlc361OkLehKUo2yej1lDCKbCqsnvEDQGEz2K3szOlk28qF7NbkX-uYD__7Ri2ORqrTZK7Sui0rl-XD_0c0eTMvkfAN4zpBrV8spWYAmZZRbB-h_2wcd6nOqrXABRSCqIkvzaGiKd8Iu-Bf9YZk6kYML-PPc7Vp4nNcBhIoBYTqliUorZUqLxvgRtyBr7-YOW2h4XLi8IA&trk=d_flagship3_search_srp_jobs&refId=Y7Il5wf3fsw3rU1GT1KFjQ%3D%3D&trackingId=xYg9rvJuTTSJ702lKR9vAA%3D%3D
+
+[ANONYMIZED JD]
+Wat ga je precies doen:
+Wij zijn op zoek naar een Administratief medewerker in [REDACTED]. In deze rol, heb je een hoge eigen verantwoordelijkheid. Het is belangrijk dat je handig bent met systemen en Microsoft Office. In deze functie ben jij het eerste aanspreekpunt voor onze klanten via email en ticket systeem. Je bent verantwoordelijk voor de producten die retour komen, vragen van klanten, geannuleerde orders verwerken, contact met pakketdiensten, voorraadbeheer, inkomende en uitgaande goederen verwerken, en andere administratieve taken. Dit doe je samen met een team van 4 tot 5 personen.
+
+Taken en verantwoordelijkheden:
+Klant contact
+Administratieve taken
+Verwerken van orders
+
+Vereiste competenties:
+*Je kan zelfstandig werken, bent een aanpakker en stressbestendig;
+*Je hebt affiniteit met een warehouse omgeving.
+*Je bent inventief in je oplossingen en hebt een proactieve werkhouding;
+*Fulltime beschikbaar maar part time is bespreekbaar
+*Beheersing van de Engelse taal in woord en geschrift.
+*Woont in de omgeving.
+
+Werken bij ons:
+*Een administratieve positie waarin je samen met je team de dagelijkse onze klanten helpt.
+*Werken in een snel groeiend bedrijf, waar kansen zullen komen.
+*Een platte organisatie met informele werksfeer.
+*Je wordt onderdeel van een internationale organisatie;
+
+Verder bieden we:
+*Een jaarcontract met uitzicht op een vast contract;
+*20 vakantiedagen.
+*Aanvullende betalingen: vakantiegeld, reiskostenvergoeding
+*Werkschema: ma-vr, dagdienst
+*Thuiswerken: ja, tot 40% thuiswerk mogelijkheid nadat je zelfstandig kunt werken.
+
+============================================================
+
+============================================================
+ID: 20
+Industry: Administration
+Language: Dutch
+Level: Mid-level
+Title: Office Manager
+URL：https://www.linkedin.com/jobs/view/4399523439/?alternateChannel=search&trk=d_flagship3_search_srp_jobs&refId=pEuPS%2FwIQxyLSHF8XlTK8A%3D%3D&trackingId=Z9haxM6%2B7bd1LGimJ7E0hw%3D%3D
+
+[ANONYMIZED JD]
+Wat je doet:
+Jij bent het middelpunt van ons kantoor. Vooraan, zichtbaar, aanspreekbaar. Collega’s, klanten en leveranciers weten jou te vinden, en jij weet altijd wat er speelt.
+Je beheert de dagelijkse gang van zaken: contact met de pandeigenaar, IT-partijen, schoonmaak en andere externe partners. Je zorgt dat nieuwe collega’s goed starten en dat vertrekkende collega’s netjes uitstromen. Dit doe je samen met je HR-collega. Voorraadbeheer, post, lichte administratie jij houdt het bij. Je ondersteunt hiermee je finance-collega.
+
+Daarnaast pak jij events op. Van teamuitje tot kerstfeest, van klantbijeenkomst tot de regular team social events.
+
+Wat je meebrengt:
+*Minimaal mbo 3, bij voorkeur in officemanagement
+*Minstens twee jaar ervaring in een vergelijkbare rol
+*Je overziet het geheel én de details
+*Je werkt proactief en zelfstandig; je wacht niet tot iemand het vraagt
+*Je communiceert vlot in Nederlands en Engels
+*Je beheerst Microsoft Office
+
+Wat je terugkrijgt:
+*Een veelzijdige functie in een organisatie die hard groeit
+*Korte lijnen, een betrokken team en leuke collega’s
+*25 vakantiedagen (fulltime), pensioenregeling en reiskostenvergoeding
+*Marktconform salaris, afhankelijk van ervaring
+*Een tof kantoor in Amsterdam Noord, inclusief lunch-chef en dakterras
+
+============================================================

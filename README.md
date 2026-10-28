@@ -1,259 +1,122 @@
-# LLM Resume Screening Bias Audit
+# Sentence-Level Media Bias Detection
 
 ![Python](https://img.shields.io/badge/Language-Python-3776AB?style=flat&logo=python&logoColor=white)
-![OpenAI](https://img.shields.io/badge/LLM-OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/LLM-Gemini-4285F4?style=flat&logo=googlegemini&logoColor=white)
-![Pandas](https://img.shields.io/badge/Data-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Analysis-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/ML-Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/Deep%20Learning-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/NLP-Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black)
 
-**Academic project | MSc Computer Science (Data Science) | Leiden University**
+**Comparing TF-IDF + Logistic Regression and fine-tuned BERT for detecting biased language in news sentences.**
 
-This repository contains the code, experimental inputs, model outputs, and evaluation results for a controlled pairwise audit of LLM-based resume screening in Dutch and English recruitment contexts.
+**Academic Project | MSc Computer Science (Data Science) | Leiden University**  
+**Course:** Text Mining | **Type:** Collaborative course research project
 
-The experiment evaluates demographic selection differences, presentation-order sensitivity, and decision validity in Gemini and OpenAI models. The full study includes:
+This project investigates whether a contextual Transformer model improves on a conventional lexical baseline in sentence-level media bias classification, particularly when labels are subjective and imbalanced.
 
-- **20 job descriptions** across IT, Healthcare, and Administration
-- **40 synthetic resumes**, one base and one superior resume for each job description
-- **5,280 test instances per model** and **10,560 model evaluations** across both models
-- **Two prompt languages:** Dutch and English
-- **Three prompt conditions:** Baseline, EU AI Act-inspired, and Few-shot
-- **Two candidate presentation orders:** AB and BA
+## Results
 
-## Key Findings
+The following results were obtained from our course experiments:
 
-| Model | Validity | Abstention Rate | Selection Rate Difference (ΔSR) | Inconsistency Rate |
+| Dataset | Model | Accuracy | Macro F1 |
+| --- | --- | ---: | ---: |
+| Original | TF-IDF + Logistic Regression | 0.580 | 0.531 |
+| Original | Fine-tuned BERT | 0.645 | 0.563 |
+| Refined | TF-IDF + Logistic Regression | 0.587 | — |
+| Refined | Fine-tuned BERT | 0.786 | — |
+
+*Macro-F1 scores for the refined experiments are not included in this summary. Original and refined evaluations use different subsets, so changes in accuracy should not be interpreted as a controlled, same-test-set improvement.*
+
+### Key observations
+
+- **BERT achieved higher overall accuracy** than the TF-IDF baseline on the original data, but the improvement in macro-F1 was smaller because performance remained uneven across classes.
+- **Annotation disagreement matters.** Average pairwise Cohen's kappa increased from **0.05** to **0.19** after filtering, although agreement remained low.
+- **Model behavior differed under refinement.** The reported BERT accuracy increased substantially on the filtered subset, while Logistic Regression changed little; however, the filtered task also had fewer examples and a different class distribution.
+- **Interpretability involves trade-offs.** Logistic Regression coefficients provide a straightforward view of lexical associations, whereas interpreting BERT decisions requires more care; attention-derived scores should not be treated as definitive causal explanations.
+
+## Research question
+
+> To what extent do modern deep learning architectures outperform traditional frequency-based approaches in predictive performance, error patterns, and interpretability for sentence-level media bias detection?
+
+We compare two approaches on the same article-level training/validation split and study how filtering annotations by agreement changes their behavior.
+
+## Dataset
+
+We use the **Sora LREC 2020 Biased Sentences Dataset** (Lim et al., 2020), derived from annotated news articles.
+
+| Dataset | Articles | Sentence-level samples | Unbiased (0) | Biased (1) |
 | --- | ---: | ---: | ---: | ---: |
-| Gemini | 43.4% | 99.8% | -0.00084 | 16.4% |
-| OpenAI | 56.4% | 99.7% | -0.00083 | 20.8% |
+| Original | 46 | 3,925 | 1,053 | 2,872 |
+| Refined | 46 | 839 | 149 | 690 |
 
-Both models almost always abstained when candidate qualifications were identical, but were less reliable at identifying the superior resume when qualifications differed. Fairness-oriented prompts did not improve decision validity in this experiment. Under few-shot prompting, validity fell from **67.5% to 8.0%** for Gemini and from **70.6% to 38.1%** for OpenAI.
+The scripts expand the source CSV into sentence-level observations using `s0`–`s19` (sentence text), `0`–`19` (annotation scores), and `id_article` (article identifier). Scores of **1** are mapped to **unbiased (0)**; scores of **2–4** to **biased (1)**. Multiple valid annotations may produce multiple sentence-level observations.
 
-Near-zero aggregate selection differences on equal-qualification pairs **do not establish the absence of bias**. Subgroup analysis of unequal-qualification pairs suggested that identifying the superior candidate could be more reliable when the stronger resume carried a Dutch-signaled name.
+We split by **article**, rather than by individual sentence, to avoid placing sentences from the same news article in both training and validation data. The refinement experiment retains observations based on annotation agreement, reducing the dataset size while changing its label distribution.
 
-## Experimental Design
+**Data availability:** The scripts expect a file named `Sora_LREC2020_biasedsentences.csv`. If the source dataset's redistribution terms permit it, place it in the repository; otherwise, obtain it from the original dataset authors and keep it locally. This repository does not claim ownership of the underlying news text or annotations.
 
-For each job description, the pipeline creates **22 candidate-pair configurations**: 10 equal-qualification configurations and 12 unequal-qualification configurations. Each is evaluated in two orders, two prompt languages, and three prompt conditions:
+## Methods
 
-```text
-20 job descriptions × 22 pair configurations × 2 orders × 2 languages × 3 prompts
-= 5,280 test instances per model
-= 10,560 evaluations across two models
-```
+### 1. TF-IDF + Logistic Regression
 
-- **Equal-qualification pairs:** Identical resume content, different demographic name signals. The expected decision is `ABSTAIN`.
-- **Unequal-qualification pairs:** One base resume and one superior resume with additional job-relevant qualifications. The expected decision is the superior candidate (`A` or `B`).
-- **Demographic name signals:** Dutch, Turkish, Moroccan, and Indonesian, with male and female names.
-- **Models:** `gemini-2.5-flash-lite` and `gpt-5.4-mini`, accessed through hosted APIs; no fine-tuning was performed.
+- Represent sentences using **unigram and bigram TF-IDF** features.
+- Remove English stopwords and infrequent terms.
+- Train a **class-weighted Logistic Regression** classifier to address label imbalance.
+- Inspect confusion matrices, classification metrics, model coefficients, and high-confidence errors.
 
-The evaluation measures **Validity** on unequal pairs, **Abstention Rate** and **Selection Rate Difference (ΔSR)** on equal pairs, and **Inconsistency Rate** across AB/BA comparisons.
+### 2. Fine-tuned BERT
 
-## 1. Environment Setup
+- Fine-tune **`bert-base-uncased`** for binary sentence classification.
+- Tokenize and pad/truncate inputs to a maximum of **128 tokens**.
+- Use class-weighted loss and evaluate with the same article-level partitioning approach.
+- Inspect class-wise results and misclassified examples.
 
-Create and activate a virtual environment:
+### 3. Annotation refinement
 
-```bash
-python3 -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
-```
+Repeat both experiments on a filtered subset based on annotator agreement. This tests how the two approaches behave when ambiguous labels are removed, while also accounting for the resulting reduction in sample size and change in class balance.
 
-In VS Code, select the project interpreter using `Cmd + Shift + P` → **Python: Select Interpreter** → `.venv`.
-
-## 2. API Keys
-
-Create a `.env` file in the project root:
-
-```dotenv
-GEMINI_API_KEY=your_gemini_api_key_here
-OPENAI_API_KEY=your_openai_api_key_here
-```
-
-**Never commit `.env` or real API credentials.**
-
-## 3. Input Data
-
-Check that all resume files listed in `data/jd_metadata.csv` exist. The full experiment requires:
+## Repository contents
 
 ```text
-data/jd_metadata.csv
-data/job_descriptions.txt
-data/names.csv
-data/resumes/1.1.txt ... 20.2.txt
-```
-
-For each job description, `x.1.txt` is the base resume and `x.2.txt` is the superior resume with additional job-relevant qualifications. The data loader extracts anonymized job-description text and excludes ground-truth construction notes so they are not revealed to the model.
-
-The resumes are synthetic. Job descriptions were sourced from real postings and anonymized; review source permissions before redistributing the underlying text.
-
-## 4. Generate Experiment Inputs
-
-```bash
-python src/generate_all_inputs.py
-```
-
-This writes `outputs/experiment_inputs.csv`. Each job description generates **264 test instances**:
-
-```text
-22 configurations × 2 presentation orders × 2 languages × 3 prompts = 264
-20 job descriptions × 264 = 5,280 instances per model
-```
-
-After order expansion, the 22 configurations become 20 equal-qualification and 24 unequal-qualification ordered pairs per job description.
-
-## 5. Run Gemini Experiments
-
-Smoke test:
-
-```bash
-python src/run_gemini.py --jd-id 1 --limit 1 --sleep 0
-```
-
-Run all Gemini experiments, a single job description, or a limited batch:
-
-```bash
-python src/run_gemini.py
-python src/run_gemini.py --jd-id 1
-python src/run_gemini.py --limit 5
-python src/run_gemini.py --sleep 2
-```
-
-The runner writes `outputs/raw_outputs.jsonl` and skips previously successful experiment IDs by default. Use `python src/run_gemini.py --overwrite` to rerun them.
-
-## 6. Run OpenAI Experiments
-
-Smoke test:
-
-```bash
-python src/run_openai.py --jd-id 1 --limit 1 --sleep 0
-```
-
-Other options:
-
-```bash
-python src/run_openai.py
-python src/run_openai.py --jd-id 1
-python src/run_openai.py --limit 5
-python src/run_openai.py --overwrite
-```
-
-The runner writes `outputs/raw_outputs_openai.jsonl` and skips previously successful experiment IDs by default.
-
-**Note:** The `raw_outputs*.jsonl` files above are generated during execution; the repository currently includes their **cleaned** counterparts, not the uncleaned raw files.
-
-## 7. Clean Raw Outputs
-
-After collecting raw model outputs, run:
-
-```bash
-python src/clean_raw_data.py
-```
-
-The script removes error records and deduplicates successful records by `experiment_id`, keeping the most recent successful record. It produces:
-
-```text
-outputs/cleaned_raw_outputs.jsonl
-outputs/cleaned_raw_outputs_openai.jsonl
-```
-
-These cleaned files are included in the repository so that results can be inspected without repeating paid API calls.
-
-## 8. Evaluation and Results
-
-The evaluation code is now located in **`analysis/`**:
-
-```text
-analysis/metrics_results_analysis.ipynb
-analysis/metrics_results_analysis.py
-```
-
-The analysis combines:
-
-```text
-outputs/experiment_inputs.csv
-outputs/cleaned_raw_outputs.jsonl
-outputs/cleaned_raw_outputs_openai.jsonl
-```
-
-It computes validity, abstention rate, selection rate difference, and AB/BA inconsistency. The six final summary tables are in **`results/`**:
-
-```text
-results/summary_by_model.csv
-results/summary_by_prompt.csv
-results/summary_by_language.csv
-results/summary_by_category.csv
-results/summary_equal_bias_type.csv
-results/summary_unequal_bias_type.csv
-```
-
-The analysis notebook and script were originally run in a Colab-style environment; local users may need to update input/output paths before rerunning the analysis. In particular, the source files may still refer to the former `result/` directory.
-
-## 9. Project Structure
-
-```text
-Bilingual-LLM-Fairness-Audit/
+Media-Bias-Detection/
 ├── README.md
 ├── requirements.txt
-├── .gitignore                      
-├── analysis/
-│   ├── metrics_results_analysis.ipynb
-│   └── metrics_results_analysis.py
 ├── data/
-│   ├── jd_metadata.csv
-│   ├── job_descriptions.txt
-│   ├── names.csv
-│   └── resumes/
-│       ├── 1.1.txt
-│       ├── 1.2.txt
-│       ├── ...
-│       ├── 20.1.txt
-│       └── 20.2.txt
-├── outputs/
-│   ├── experiment_inputs.csv
-│   ├── cleaned_raw_outputs.jsonl
-│   └── cleaned_raw_outputs_openai.jsonl
-├── results/
-│   ├── summary_by_model.csv
-│   ├── summary_by_prompt.csv
-│   ├── summary_by_language.csv
-│   ├── summary_by_category.csv
-│   ├── summary_equal_bias_type.csv
-│   └── summary_unequal_bias_type.csv
-└── src/
-    ├── config.py
-    ├── load_data.py
-    ├── generate_equal_pairs.py
-    ├── generate_unequal_pairs.py
-    ├── generate_all_inputs.py
-    ├── prompts.py
-    ├── run_gemini.py
-    ├── run_openai.py
-    └── clean_raw_data.py
+│   └── Sora_LREC2020_biasedsentences.csv
+├── src/
+│   ├── tfidf_lr_baseline.py
+│   ├── tfidf_lr_refined.py
+│   ├── bert_baseline.py
+│   └── bert_refined.py
+└── notebooks/
+    ├── bert_baseline.ipynb
+    └── bert_refined.ipynb
 ```
 
-## 10. Source File Overview
+## Running the experiments
 
-| File | Purpose |
-| --- | --- |
-| `src/config.py` | Defines project paths, output files, prompt conditions, prompt languages, and model names. |
-| `src/load_data.py` | Loads job descriptions, resume files, names, and JD metadata. |
-| `src/generate_equal_pairs.py` | Builds equal-qualification pairs with different name signals; expected decision: `ABSTAIN`. |
-| `src/generate_unequal_pairs.py` | Builds base-versus-superior resume pairs; expected decision: the superior candidate. |
-| `src/generate_all_inputs.py` | Combines candidate pairs, languages, and prompt conditions into experiment inputs. |
-| `src/prompts.py` | Builds English and Dutch Baseline, EU AI Act-inspired, and Few-shot prompts. |
-| `src/run_gemini.py` | Calls Gemini and records model responses. |
-| `src/run_openai.py` | Calls OpenAI and records model responses. |
-| `src/clean_raw_data.py` | Cleans and deduplicates model output records. |
-| `analysis/metrics_results_analysis.py` | Computes and summarizes the evaluation metrics. |
-| `analysis/metrics_results_analysis.ipynb` | Notebook version of the evaluation workflow. |
+1. Create a Python environment and install the dependencies listed in `requirements.txt` once it has been prepared and tested.
+2. Place `Sora_LREC2020_biasedsentences.csv` where the scripts expect it, or update their file paths.
+3. Run the TF-IDF experiments as standard Python scripts.
+4. Open the BERT notebooks in **Google Colab**, adjust the Google Drive CSV path, and run the cells. The original BERT `.py` exports contain notebook-specific commands (such as `!pip install` and Google Drive mounting), so they need adaptation before running as standalone Python files.
 
-## Academic Context and Contributions
+**Reproducibility note:** The source files were developed for coursework and have not yet been consolidated into a fully tested, one-command reproduction pipeline. Experimental settings and evaluation results are summarized in this README.
 
-This is a collaborative academic project from the MSc Computer Science (Data Science) programme at Leiden University.
+## Academic context and contributions
 
-- **Xiatong Xiong:** Data collection and dataset generation.
-- **Qi Liu:** Data processing and experiment execution pipeline.
-- **Jian Song:** Prompting strategies and API integration.
-- **Nurifeiya Anwaier:** Evaluation metrics and results analysis.
-- **All authors:** Research report writing.
+This project was completed as part of the **Text Mining** course in the **MSc Computer Science (Data Science)** programme at **Leiden University**.
 
-The findings are from a controlled research simulation, **not** a validated system for real-world hiring decisions. High abstention on identical resumes does not guarantee demographic fairness in other settings.
+It was a **collaborative academic project**, involving the development and comparison of traditional machine learning and Transformer-based approaches to sentence-level media bias detection.
+
+**My contributions:**
+
+- Implemented the **TF-IDF + Logistic Regression** baseline for sentence-level classification.
+- Contributed to the comparative evaluation of traditional machine learning and BERT-based approaches.
+- Participated in the analysis of annotation disagreement, model performance, and interpretability.
+- Collaborated with a teammate on the experimental investigation and research discussions.
+
+**Collaboration note:** The fine-tuned BERT implementation was developed by a teammate as part of the collaborative project. The results presented here reflect the combined work of the project team.
+
+## Reference
+
+Lim, S., Jatowt, A., Färber, M., & Yoshikawa, M. (2020). *Annotating and Analyzing Biased Sentences in News Articles Using Crowdsourcing.*
+
+*Academic course project; not a published research paper by the repository authors.*
